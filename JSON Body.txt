@@ -1,0 +1,15 @@
+GET: 
+PARAMAS 
+?logid =value&logname=vlaue
+
+POST
+{
+    "logid": "ID002",
+    
+     "logname": "Andrew Tzikas",
+    
+     "town": "Reston, VA"
+
+} 
+
+
